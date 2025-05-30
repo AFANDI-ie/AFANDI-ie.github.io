@@ -1,0 +1,26 @@
+/* Jumbotron Section */
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #97a9b0; /* abu-abu kebiruan */
+  color: black;
+}
+
+/* About Section */
+#about {
+  background-color: #ffffff; /* putih */
+}
+
+/* Custom soft blue background (kalau ingin dipakai lagi) */
+.bg-soft-blue {
+  background-color: #dbeafe; /* biru muda kalem */
+}
+
+/* Project Section */
+#project {
+  background-color: #97a9b0;
+}
+
+/* Contact Section (jika ingin kustom selain bg-warning) */
+#contact {
+  /* bisa tambahkan styling di sini kalau mau */
+}
